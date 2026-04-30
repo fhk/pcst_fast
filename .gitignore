@@ -13,6 +13,8 @@ src/main_cluster_grid
 .DS_Store
 pcst_fast.so
 pcst_fast.so.dSYM
+pcst_fast.js
+pcst_fast.wasm
 .cache
 __pycache__
 
